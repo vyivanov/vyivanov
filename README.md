@@ -1,16 +1,14 @@
-### Hi there 👋
+:ru: who am i
+-------------
 
-<!--
-**vyivanov/vyivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proficient engineer with focus on:
 
-Here are some ideas to get you started:
+- Electrical Engineering, Computer Science, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience in 3 areas:
+
+- Consumer Electronics, Industrial Robotics, Self-Driving Cars
+
+Helped to solve problems for 3 types of companies:
+
+- Outsourcing, Start-up, Public
