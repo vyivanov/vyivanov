@@ -5,13 +5,13 @@ Proficient engineer with focus on 3 domains:
 
 - Electrical Engineering, Computer Science, Machine Learning
 
-Built experience in 3 areas:
+Built practical experience in 3 areas:
 
-- Consumer Electronics, Industrial Robotics, Self-Driving Cars
+- Consumer Electronics, Industrial IoT and Robotics, Self-Driving Cars
 
-Helped to solve problems for 3 types of companies:
+Helped to solve SW and HW problems for 4 types of companies:
 
-- Outsource, Startup, Public
+- Outsource, Startup, Private, Public
 
 :bulb: how to get in touch
 --------------------------
