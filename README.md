@@ -1,4 +1,4 @@
-:ru: who am i
+:octocat: who am i
 -------------
 
 Proficient engineer with focus on 3 domains:
