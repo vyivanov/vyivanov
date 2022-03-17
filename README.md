@@ -3,11 +3,11 @@
 
 Proficient engineer with focus on 3 domains:
 
-- Electrical Engineering, Computer Science, Machine Learning
+- Computer Science, Electrical Engineering, Machine Learning
 
 Built practical experience in 3 areas:
 
-- Consumer Electronics, Industrial IoT and Robotics, Self-Driving Cars
+- Consumer Electronics, Industrial IoT and Robotics, Self-Driving Technology
 
 Helped to solve SW and HW problems for 4 types of companies:
 
