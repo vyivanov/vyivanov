@@ -1,17 +1,17 @@
 :octocat: who am i
 -------------
 
-Proficient engineer with focus on 3 domains:
+Proficient engineer with focus on **3 domains**:
 
 - Computer Science, Electrical Engineering, Machine Learning
 
-Built practical experience in 3 areas:
+Broad practical experience in **3 areas**:
 
-- Consumer Electronics, Industrial IoT and Robotics, Self-Driving Technology
+- Consumer Electronics, Industrial IoT and Robotics, Self-Driving Technologies
 
-Helped to solve SW and HW problems for 4 types of companies:
+Help to solve software and hardware problems for **4 types** of companies:
 
-- Outsource, Startup, Private, Public
+- Outsource, Startup, Product, Bigtech
 
 :bulb: how to get in touch
 --------------------------
